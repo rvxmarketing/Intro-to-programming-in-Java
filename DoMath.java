@@ -1,6 +1,13 @@
 public class DoMath {
     public static void main(String[] args){
-        double score = 1.0 + 2.0 * 3.0;
-        System.out.println(score);
+        //GravityCalculator
+        //Compute the position of a falling object:
+        String functionX = "x(t)";
+        String algorithm = "at2 + v!t + x!";
+        double decimal = 0.5;
+        System.out.println(functionX+" = "+decimal+" x "+algorithm);
+
+
+
     }
 }
