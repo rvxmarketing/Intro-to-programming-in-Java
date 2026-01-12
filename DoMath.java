@@ -6,6 +6,7 @@ public class DoMath {
         String algorithm = "at2 + v!t + x!";
         double decimal = 0.5;
         System.out.println(functionX+" = "+decimal+" x "+algorithm);
+        System.out.println("Congratulations!");
 
 
 
